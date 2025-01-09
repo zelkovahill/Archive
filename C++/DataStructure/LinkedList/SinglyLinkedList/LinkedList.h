@@ -28,4 +28,4 @@ public:
     void printList() const;       // 리스트 출력
     bool search(int value) const; // 특정 값의 노드 검색
 };
-#endif
+#endif // LINKEDLIST_H
