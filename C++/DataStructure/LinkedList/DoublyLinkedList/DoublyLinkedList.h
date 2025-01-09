@@ -17,8 +17,8 @@ struct Node
 class DoublyLinkedList
 {
 private:
-    Node *head;
-    Node *tail;
+    Node *head; // 리스트의 첫 번째 노드를 가리키는 포인터
+    Node *tail; // 리스트의 마지막 노드를 가리키는 포인터
 
 public:
     DoublyLinkedList();  // 생성자
