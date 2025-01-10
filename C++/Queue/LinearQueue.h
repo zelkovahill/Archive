@@ -17,7 +17,6 @@ class LinearQueue
 private:
     Node *front;
     Node *rear;
-    int size;
 
 public:
     LinearQueue();
